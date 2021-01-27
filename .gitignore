@@ -11,6 +11,7 @@ examples/tempCodeRunnerFile.py
 doc/readme_units_conversion_ADMR.pdf
 
 .vscode/
+poetry.lock
 
 
 # Byte-compiled / optimized / DLL files
