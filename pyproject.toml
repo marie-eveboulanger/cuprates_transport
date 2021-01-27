@@ -1,9 +1,9 @@
 [tool.poetry]
 name = "cuprates_transport"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
-license = "MIT"
+description = "Computes Boltzmann transport from a tight binding model"
+authors = ["Gaël Grissonnanche <gael.phys@gmail.com>"]
+license = "gpl-3.0"
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.9"
